@@ -18,6 +18,7 @@ public class onedimensional {
 		for(int i=0;i<=b.length-1;i++) 
 		{
 			System.out.print(b[i]+", ");
+			System.out.println("hi");
 		}
 		System.out.println();
 		
